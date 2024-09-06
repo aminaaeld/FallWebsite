@@ -1,0 +1,76 @@
+/* General page styling */
+body {
+    font-family: 'Helvetica', sans-serif;
+    background-color: #FFF8E1;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+/* Header styling */
+header {
+    background-color: #FF6F00;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 2.5em;
+    margin: 0;
+}
+
+/* Intro section styling */
+.intro {
+    text-align: center;
+    padding: 20px;
+    background-color: #FFD54F;
+}
+
+/* Reasons section */
+.reasons {
+    padding: 20px;
+}
+
+.reasons h2 {
+    color: #D84315;
+}
+
+.reasons ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.reasons li {
+    background-color: #FFF3E0;
+    padding: 15px;
+    margin: 10px 0;
+    border-left: 5px solid #FF7043;
+    border-radius: 4px;
+}
+
+.reasons strong {
+    color: #BF360C;
+}
+
+/* Quote section */
+.quote {
+    text-align: center;
+    margin: 20px 0;
+    font-style: italic;
+}
+
+blockquote {
+    font-size: 1.5em;
+    color: #6A1B9A;
+}
+
+/* Footer styling */
+footer {
+    background-color: #FF6F00;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
